@@ -1,0 +1,53 @@
+*{
+    box-sizing: border-box;
+    margin: 0.5px;
+    padding: 3;
+}
+body{
+    font-family: 'Poppins',sans-serif;
+    font-size: 16px;
+    line-height: 2;
+    background:beige;
+    width: 100px;
+    height: 800px;
+    display: inline-block
+
+}
+    
+.SB{
+    background: #3474e6;
+    width: 200px;
+    height: 800px;
+    float: left;
+    
+
+}
+ul li{
+    margin: 50px;
+    margin-right: 10em;
+    background: white;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 1em;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.logo{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 1em;
+
+}
+.text{
+    color: white;
+    width: 1px;
+}
+.search{ display: flex;
+   box-shadow:solid 16px 5px 2px;
+}
